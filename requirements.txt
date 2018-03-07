@@ -1,0 +1,6 @@
+hovercraft==2.5
+django==2.0.2
+requests
+requests-mock==1.4.0
+mock
+factory-boy
